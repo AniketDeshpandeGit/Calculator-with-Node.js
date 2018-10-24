@@ -1,4 +1,6 @@
-# CMPE273-2"
+This is a simple calculator created in Node.JS to understand and implement basic NodeJS functionality.
+
+How To Run:
 
 Open each folder
 
